@@ -1,0 +1,13 @@
+body {
+  /* @apply px-2; */
+  font-family: "Inter", sans-serif;
+}
+
+/* #root header:before {
+  @apply absolute inset-0 bg-gradient-to-b from-zinc-900 via-zinc-500 to-zinc-100;
+} */
+
+* {
+  /* @apply outline outline-1 outline-red-400; */
+  @apply select-none;
+}
